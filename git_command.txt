@@ -1,0 +1,7 @@
+clear
+git init - inititalize empty git repository
+git add - adding file in stage area 
+git add . - adding all file in staging area
+git commit -m " add file name " - commiting to vcs so that file can be tracked
+git restore file name 
+git status
