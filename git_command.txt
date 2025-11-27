@@ -5,3 +5,7 @@ git add . - adding all file in staging area
 git commit -m " add file name " - commiting to vcs so that file can be tracked
 git restore file name 
 git status
+git push master - to push code from local to remote
+git pull master - to pull code from remote to loca
+git remote add origin - to connect local to remote
+git remote set-utl origin https://PAT@githum.com/url - to connect remote via token
